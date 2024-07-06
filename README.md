@@ -28,7 +28,7 @@ Pastikan Anda telah menginstal Flutter di komputer Anda.
 2. Masuk ke directory project
 
    ```bash
-   cd Contact
+   cd TB_Praktikum_Mobile
 3. Jalankan Aplikasi
    ```bash
    flutter run
