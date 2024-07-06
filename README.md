@@ -24,7 +24,7 @@ Pastikan Anda telah menginstal Flutter di komputer Anda.
 1. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/Alif07xyz/TB_Praktikum_Mobile.git
 2. Masuk ke directory project
 
    ```bash
